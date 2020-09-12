@@ -1,0 +1,32 @@
+{
+  "name": "cshaptx4869/boundary",
+  "description": "判断点是否在多边形区域内外",
+  "type": "library",
+  "license": [
+    "Apache-2.0"
+  ],
+  "authors": [
+    {
+      "name": "cshaptx4869",
+      "email": "994774638@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fairy\\": "src"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  ]
+}
